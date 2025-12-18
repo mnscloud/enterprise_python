@@ -1,0 +1,30 @@
+# Docker volumes
+odoo-data
+
+# Docker config files
+#Dockerfile
+#docker-compose.override.yml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Build and dist directories
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
